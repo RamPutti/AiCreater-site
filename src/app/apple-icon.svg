@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <defs>
+    <linearGradient id="creatorAiGradApple" x1="0" y1="32" x2="32" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="50%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+    <linearGradient id="sparkleGradApple" x1="8" y1="8" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E0E7FF" />
+    </linearGradient>
+  </defs>
+
+  <rect width="32" height="32" rx="8" fill="url(#creatorAiGradApple)" />
+  <rect x="0.5" y="0.5" width="31" height="31" rx="7.5" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1" />
+
+  <path 
+    d="M15 5.5C15.3 10.5 16.5 12.7 21.5 13C16.5 13.3 15.3 15.5 15 20.5C14.7 15.5 13.5 13.3 8.5 13C13.5 12.7 14.7 10.5 15 5.5Z" 
+    fill="url(#sparkleGradApple)"
+  />
+
+  <path 
+    d="M23 17C23.2 19.2 23.8 20.2 26 20.3C23.8 20.4 23.2 21.4 23 23.6C22.8 21.4 22.2 20.4 20 20.3C22.2 20.2 22.8 19.2 23 17Z" 
+    fill="#FFFFFF" 
+    opacity="0.9"
+  />
+</svg>
